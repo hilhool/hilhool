@@ -1,7 +1,7 @@
 # Hi, I'm Timur 👋
 
 Data Analyst & Data Scientist 
-Co-founder at [T-ASK](https://github.com/hilhool) — AI tutoring startup
+Co-founder at T-ASK - AI tutoring startup
 
 ## 🛠 Stack
 - **Languages:** Python, SQL
