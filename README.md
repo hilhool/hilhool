@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Timur 👋
 
-<!--
-**hilhool/hilhool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst & Data Scientist 
+Co-founder at [T-ASK](https://github.com/hilhool) — AI tutoring startup
 
-Here are some ideas to get you started:
+## 🛠 Stack
+- **Languages:** Python, SQL
+- **Analytics:** A/B Testing, Cohort Analysis, Statistics, EDA
+- **ML:** scikit-learn, PyTorch, LoRA fine-tuning
+- **BI:** Power BI, Streamlit, Plotly
+- **Data:** pandas, NumPy, PostgreSQL, DuckDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/timur-kozlov](https://linkedin.com/in/timur-kozlov)
+- Email: hilhool011@gmail.com
