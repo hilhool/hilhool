@@ -1,4 +1,5 @@
-# Hi, I'm Timur 👋
+# Hi, I'm hilhool
+
 
 Data Analyst & Data Scientist 
 Co-founder at T-ASK - AI tutoring startup
