@@ -1,5 +1,5 @@
 ### Timur hilhool
-Building data products. Co-founder @ T-ASK (AI tutoring).
+Building data products. Co-founder T-ASK (AI tutoring).
 Open to remote DA roles.
 
 ### Selected work
