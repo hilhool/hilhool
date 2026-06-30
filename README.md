@@ -14,8 +14,3 @@ Building data products. Co-founder T-ASK (AI tutoring). Open to remote DA roles.
 ## Stack
 
 Python · SQL · pandas · DuckDB · scipy · PyTorch · Streamlit · Power BI
-
-## Contact
-
-- LinkedIn: [linkedin.com/in/timur-kozlov](https://linkedin.com/in/timur-kozlov)
-- Email: hilhool011@gmail.com
