@@ -13,4 +13,4 @@ Building data products. Co-founder T-ASK (AI tutoring). Open to remote DA roles.
 
 ## Stack
 
-Python · SQL · pandas · DuckDB · scipy · PyTorch · Streamlit · Power BI
+Python · SQL · pandas · DuckDB · PyTorch · Streamlit · Power BI
