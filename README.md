@@ -1,6 +1,6 @@
 # Timur
 
-Building data products. Co-founder T-ASK (AI tutoring). Open to remote DA roles.
+Building data products. Co-founder T-ASK (AI tutoring). Open to remote DA/DS roles.
 
 ## Selected work
 
